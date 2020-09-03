@@ -1,11 +1,11 @@
 def count_strings(array_1)
     
     array_1.count do | element |
-      count_strings
+      
       
       end 
     
-    puts #{count_strings(array_1)}  
+    puts  
       
     # Return the total number of strings in the provided array using the count enumerable
   
