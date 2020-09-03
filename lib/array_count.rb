@@ -15,11 +15,11 @@ def count_strings(array_1)
   
 end
 
-def count_empty_strings(array_1)
+def count_empty_strings(array)
  
      
        
-    array_1.count do |element|
+    array.count do |element|
      element.class == String 
     
     end 
