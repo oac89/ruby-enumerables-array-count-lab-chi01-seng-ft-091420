@@ -14,12 +14,12 @@ def count_strings(array_1)
    
   
 
-def count_empty_strings(array)
+def count_empty_strings(array_1)
  
      
        
-    array.count do |element|
-     element == " " 
+    array_1.count do |element|
+     element == "" 
     
     end 
       
