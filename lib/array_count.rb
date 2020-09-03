@@ -20,7 +20,7 @@ def count_empty_strings(array_1)
     empt_string = 
        
     array_1.count do |element|
-    elemen class.element? 
+    arrary_1 class.element? 
     
     end 
       
