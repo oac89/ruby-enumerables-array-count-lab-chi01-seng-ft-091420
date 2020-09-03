@@ -15,8 +15,12 @@ end
 
 def count_empty_strings(array_1)
  
-    array_1.count do 
-      count_empty_strings
+    empt_string = 
+       
+    array_1.count do |element|
+    element = String << empt_string
+    end 
+      
      
     end 
   
