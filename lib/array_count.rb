@@ -25,7 +25,7 @@ def count_empty_strings(array_1)
     end 
       
      
-    count 
+  
   
    
   
