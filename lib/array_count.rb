@@ -1,12 +1,13 @@
 def count_strings(array_1)
     
     array_1.count do |element| 
-      if 
+        if element = String 
+        puts 
       
       
-      end 
+        end 
     
-    puts  
+    
       
     # Return the total number of strings in the provided array using the count enumerable
   
