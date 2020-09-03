@@ -17,7 +17,7 @@ end
 
 def count_empty_strings(array_1)
  
-    empt_string = 
+     
        
     array_1.count do |element|
      class.element == String 
