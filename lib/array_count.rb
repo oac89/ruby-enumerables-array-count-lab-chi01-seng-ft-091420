@@ -20,12 +20,12 @@ def count_empty_strings(array_1)
     empt_string = 
        
     array_1.count do |element|
-    arrary_1 class.element
+     class.element == String 
     
     end 
       
      
-    p count 
+    count 
   
    
   
